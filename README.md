@@ -6,7 +6,7 @@
 
 Пошаговый разбор всех десяти фаз — цели, листинги, ожидаемый результат и
 вопросы для обсуждения — лежит в
-[`docs/cpp-mentorship-workshop.md`](docs/cpp-mentorship-workshop.md).
+[`docs/cpp-oop-workshop.md`](docs/cpp-oop-workshop.md).
 
 ## Установка на macOS
 

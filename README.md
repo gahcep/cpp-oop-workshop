@@ -36,8 +36,8 @@ make CXX="$(brew --prefix llvm)/bin/clang++" run-01
 
 ```sh
 mkdir -p /Users/user/Mentorship
-unzip -n "$HOME/Downloads/cpp-mentorship.zip" -d /Users/user/Mentorship
-cd /Users/user/Mentorship/cpp-mentorship
+unzip -n "$HOME/Downloads/cpp-oop-workshop.zip" -d /Users/user/Mentorship
+cd /Users/user/Mentorship/cpp-oop-workshop
 clang++ --version
 make --version
 ```
@@ -48,7 +48,7 @@ make --version
 Откройте папку комплекта в VS Code:
 
 ```sh
-code /Users/user/Mentorship/cpp-mentorship
+code /Users/user/Mentorship/cpp-oop-workshop
 ```
 
 Если команда `code` недоступна, нажмите в VS Code `⇧⌘P` и выполните
